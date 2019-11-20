@@ -61,3 +61,7 @@ buck-out/
 # Jest
 #
 .jest/
+
+# VSCode
+
+.vscode/
